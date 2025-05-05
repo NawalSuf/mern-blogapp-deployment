@@ -71,9 +71,6 @@ app.use('/api', require('./routes'));
 app.use(require('./middlewares/errorHandler'));
 
 // Run server
-app.listen(
-  PORT,
-  console.log(
-    `Server running in ${MODE} mode on ${HOST}:${PORT}`.blue.underline
-  )
-);
+app.listen(process.env.PORT, process.env.HOST, () => {
+  console.log(`Server running at http://${process.env.HOST}:${process.env.PORT}`);
+});
