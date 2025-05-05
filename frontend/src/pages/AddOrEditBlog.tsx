@@ -18,7 +18,7 @@ const AddOrEditBlog = () => {
     title: '',
     content: '',
     image:
-      'https://www.timsahajans.com.tr/data/uploads/Blog-Nedir-Cesitleri-Nelerdir.jpg',
+      'https://revenuearchitects.com/wp-content/uploads/2017/02/Blog_pic-450x255.png',
     categoryId: '',
   });
 
