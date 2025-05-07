@@ -76,7 +76,7 @@ This assignment demonstrates practical DevOps skills including cloud provisionin
 PORT=5000
 HOST=0.0.0.0
 MODE=production
-MONGODB=***REMOVED***test:***REMOVED***@mongodb.txkjsso.mongodb.net/blog-app
+MONGODB=mongodb+srv://test:qazqwe123@mongodb.txkjsso.mongodb.net/blog-app
 JWT_SECRET=...
 JWT_EXPIRE=30min
 JWT_REFRESH=...
