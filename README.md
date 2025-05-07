@@ -85,6 +85,10 @@ This project demonstrates practical DevOps skills including cloud provisioning, 
   <img src="https://raw.githubusercontent.com/NawalSuf/mern-blogapp-deployment/main/screenshot/media-upload-success.png" width="600" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NawalSuf/mern-blogapp-deployment/main/screenshot/test.png" width="600" />
+</p>
+
 ---
 
 ## 🔐 IAM & Environment Security
